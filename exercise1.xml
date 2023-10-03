@@ -1,0 +1,15 @@
+<!-- XML declaration specifying the version (1.0) and character encoding (UTF-8) -->
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!-- Library will be the root element for the XML document, it will include the technical and cookery books -->
+<library>
+
+    <!--Start of catalogue for the technical books-->
+    <catalogue type="technical">
+
+        <book>
+            <title> </title>
+            <author> </author>
+            <isbn> </isbn>
+
