@@ -13,3 +13,37 @@
             <author> </author>
             <isbn> </isbn>
 
+        </book>
+
+        <book>
+            <title> </title>
+            <author> </author>
+            <isbn> </isbn>
+
+        </book>
+
+    <!-- End of the catalogue for technical books -->
+    </catalogue> 
+
+    <!--Start of catalogue for the bookery books-->
+    <catalogue type="cookery">
+
+        <book>
+            <title> </title>
+            <author> </author>
+            <isbn> </isbn>
+
+        </book>
+
+        <book>
+            <title> </title>
+            <author> </author>
+            <isbn> </isbn>
+
+        </book>
+
+      <!-- End of the catalogue for cookery books -->
+    </catalogue> 
+
+<!-- End of library root element -->
+</library>
