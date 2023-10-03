@@ -9,16 +9,16 @@
     <catalogue type="technical">
 
         <book>
-            <title> </title>
-            <author> </author>
-            <isbn> </isbn>
+            <title> Understanding Chemistry </title>
+            <author> Jim McCarthy and Terence White </author>
+            <isbn> 9781845366230 </isbn>
 
         </book>
 
         <book>
-            <title> </title>
-            <author> </author>
-            <isbn> </isbn>
+            <title> ISE CHEMISTRY </title>
+            <author> Chang Raymond </author>
+            <isbn> 9781265577568  </isbn>
 
         </book>
 
@@ -29,16 +29,16 @@
     <catalogue type="cookery">
 
         <book>
-            <title> </title>
-            <author> </author>
-            <isbn> </isbn>
+            <title> The Hungry Student Cookbook </title>
+            <author> Charlotte Pike </author>
+            <isbn>1782060065 </isbn>
 
         </book>
 
         <book>
-            <title> </title>
-            <author> </author>
-            <isbn> </isbn>
+            <title> All in the cooking </title>
+            <author> Josephine B. Marnell </author>
+            <isbn> 9781847177872 </isbn>
 
         </book>
 
