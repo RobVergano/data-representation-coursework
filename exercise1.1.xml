@@ -21,6 +21,7 @@
             <isbn> 9781265577568  </isbn>
 
         </book>
+        <!--We could keep adding books here-->
 
     <!-- End of the catalogue for technical books -->
     </catalogue> 
@@ -41,6 +42,7 @@
             <isbn> 9781847177872 </isbn>
 
         </book>
+        <!--We could keep adding books here-->
 
     <!-- End of the catalogue for cookery books -->
     </catalogue> 
